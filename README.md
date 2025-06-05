@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Appline - Next.js App & Software Template
+
+A modern, responsive website built with Next.js and Tailwind CSS, inspired by the design at [appline.demo.nextjstemplates.com](https://appline.demo.nextjstemplates.com/).
+
+## Features
+
+- Fully responsive design that looks great on all devices
+- Modern UI with smooth animations and transitions
+- Built with Next.js and Tailwind CSS for optimal performance
+- Modular component structure for easy customization
+- Placeholder API for generating dynamic placeholder images
+- Interactive sections including pricing tables, testimonials, and FAQ
 
 ## Getting Started
 
